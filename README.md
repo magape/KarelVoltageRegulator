@@ -4,7 +4,7 @@ Voltage regulator for Karel robotic platform.
 
 Credits
 =======
-The charger was designed by Mihai Agape.
+The regulator was designed by Mihai Agape.
 
 Licence
 =======
